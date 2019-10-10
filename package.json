@@ -1,0 +1,26 @@
+{
+  "name": "novo_frotas",
+  "private": true,
+  "dependencies": {
+    "angucomplete-alt": "^3.0.0",
+    "angular": "^1.6.4",
+    "angular-calendar-heatmap": "^0.3.1",
+    "angular-cookies": "^1.6.8",
+    "angular-drag-and-drop-lists": "^2.1.0",
+    "angular-i18n": "^1.6.4",
+    "angular-resource": "^1.6.4",
+    "animate.css": "^3.5.2",
+    "floating-scroll": "^2.3.1",
+    "font-awesome": "^4.7.0",
+    "highcharts": "^5.0.12",
+    "jquery": "^3.2.1",
+    "jquery-maskmoney": "^3.0.2",
+    "jquery.inputmask": "^3.3.4",
+    "materialize-clockpicker": "^1.0.1",
+    "moment": "^2.19.1",
+    "ng-table": "^3.0.1",
+    "ngmap": "^1.18.4",
+    "select2": "^4.0.3",
+    "sweetalert2": "^6.6.5"
+  }
+}
