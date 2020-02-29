@@ -291,7 +291,7 @@ GEM
     pry-rails (0.3.6)
       pry (>= 0.10.4)
     public_suffix (2.0.5)
-    puma (3.12.0)
+    puma (3.12.3)
     rack (2.0.6)
     rack-cache (1.8.0)
       rack (>= 0.4)
@@ -514,7 +514,7 @@ DEPENDENCIES
   pdfunite
   pg (~> 0.18)
   pry-rails
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.1.6.1)
   rails-erd
   redis (~> 4.0)
