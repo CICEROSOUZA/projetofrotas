@@ -13,7 +13,7 @@
     "floating-scroll": "^2.3.1",
     "font-awesome": "^4.7.0",
     "highcharts": "^5.0.12",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery-maskmoney": "^3.0.2",
     "jquery.inputmask": "^3.3.4",
     "materialize-clockpicker": "^1.0.1",
