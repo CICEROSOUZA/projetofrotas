@@ -17,7 +17,7 @@
     "jquery-maskmoney": "^3.0.2",
     "jquery.inputmask": "^3.3.4",
     "materialize-clockpicker": "^1.0.1",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "ng-table": "^3.0.1",
     "ngmap": "^1.18.4",
     "select2": "^4.0.3",
