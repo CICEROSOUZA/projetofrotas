@@ -119,7 +119,7 @@ gem 'gon'
 gem 'haml-rails'
 
 # Makes http fun again
-gem 'httparty', '0.15.5'
+gem 'httparty', '0.21.0'
 
 # Use informate config
 gem 'informante'
